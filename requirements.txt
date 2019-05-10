@@ -1,4 +1,5 @@
-requests
 pandas
 gspread-pandas
-bs4
+selenium
+lxml
+loguru
